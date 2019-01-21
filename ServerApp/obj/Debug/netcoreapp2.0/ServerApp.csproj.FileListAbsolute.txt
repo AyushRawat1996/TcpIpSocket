@@ -1,0 +1,11 @@
+E:\Projects\DotNet\ServerApp\ServerApp\bin\Debug\netcoreapp2.0\ServerApp.deps.json
+E:\Projects\DotNet\ServerApp\ServerApp\bin\Debug\netcoreapp2.0\ServerApp.runtimeconfig.json
+E:\Projects\DotNet\ServerApp\ServerApp\bin\Debug\netcoreapp2.0\ServerApp.runtimeconfig.dev.json
+E:\Projects\DotNet\ServerApp\ServerApp\bin\Debug\netcoreapp2.0\ServerApp.dll
+E:\Projects\DotNet\ServerApp\ServerApp\bin\Debug\netcoreapp2.0\ServerApp.pdb
+E:\Projects\DotNet\ServerApp\ServerApp\obj\Debug\netcoreapp2.0\ServerApp.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet\ServerApp\ServerApp\obj\Debug\netcoreapp2.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\ServerApp\ServerApp\obj\Debug\netcoreapp2.0\ServerApp.AssemblyInfoInputs.cache
+E:\Projects\DotNet\ServerApp\ServerApp\obj\Debug\netcoreapp2.0\ServerApp.AssemblyInfo.cs
+E:\Projects\DotNet\ServerApp\ServerApp\obj\Debug\netcoreapp2.0\ServerApp.dll
+E:\Projects\DotNet\ServerApp\ServerApp\obj\Debug\netcoreapp2.0\ServerApp.pdb

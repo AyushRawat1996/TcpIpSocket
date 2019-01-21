@@ -1,0 +1,10 @@
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+E:\Projects\DotNet\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+E:\Projects\DotNet\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+E:\Projects\DotNet\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
